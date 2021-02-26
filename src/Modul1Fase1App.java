@@ -8,6 +8,7 @@ public class Modul1Fase1App {
 			String cognom2="López";
 			int dia=27;
 			int mes=11;
+			
 			int any=1979;
 			
 			System.out.println(nom + " " + " " + cognom1 + " " + cognom2);
