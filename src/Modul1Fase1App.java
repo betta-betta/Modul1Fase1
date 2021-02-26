@@ -1,8 +1,7 @@
 
 public class Modul1Fase1App {
 
-	
-		public static void main(String[] args) {
+	public static void main(String[] args) {
 			String nom="Lluis";
 			String cognom1="Gutiérrez";
 			String cognom2="López";
